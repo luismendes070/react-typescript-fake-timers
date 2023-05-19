@@ -15,8 +15,8 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "jest": "latest",
-    "@types/jest": "latest",
-    "react-scripts": "latest"
+    "jest": "29.5.0",
+    "@types/jest": "29.5.1",
+    "react-scripts": "5.0.1"
   }
 }
